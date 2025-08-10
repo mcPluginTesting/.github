@@ -5,7 +5,7 @@
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/82bbc622-6c46-42b2-a1db-35040001c0c4" /> 마인크래프트 플러그인 개발 저장소
 
 > 보드게임과 미니게임 제작을 위해 직접 개발한 마인크래프트 플러그인들을 모아둔 저장소입니다.<br>
-> 공개된 리포지토리는 개발이 완료된 버전이며, 누구나 자유롭게 사용하실 수 있습니다.
+> 공개된 리포지토리는 개발이 완료된 버전이며, 누구나 자유롭게 사용하실 수 있습니다.<br>
 
   <img src="https://musical-palmier-53bce7.netlify.app/.netlify/functions/random-image" width="50" align="right">
 
