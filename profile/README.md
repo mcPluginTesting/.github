@@ -7,7 +7,7 @@
 > 보드게임과 미니게임 제작을 위해 직접 개발한 마인크래프트 플러그인들을 모아둔 저장소입니다.<br>
 > 공개된 리포지토리는 개발이 완료된 버전이며, 누구나 자유롭게 사용하실 수 있습니다.
 
-<img align="right" width="50" height="45" alt="image" src="https://cdn3.emoji.gg/emojis/3496_Minecraft.gif" />
+<img align="right" alt="image" src="https://cdn3.emoji.gg/emojis/3496_Minecraft.gif" />
 
 ## 📄 라이선스
 이곳은 MIT 라이선스를 따릅니다.  
